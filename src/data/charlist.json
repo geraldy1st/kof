@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Terry Bogard",
+    "appeared": ["Fatal Fury", "SNK"],
+    "photo": "https://vignette.wikia.nocookie.net/snk/images/d/d1/Terry-kofxiv.jpg/revision/latest/top-crop/width/200/height/150"
+  },
+  {
+    "id": 2,
+    "name": "Andy Bogard",
+    "appeared": ["Fatal Fury", "SNK"],
+    "photo": "https://vignette.wikia.nocookie.net/snk/images/9/92/Andy-kofxiv.jpg/revision/latest/top-crop/width/200/height/150"
+  },
+  {
+    "id": 3,
+    "name": "Geese Howard",
+    "appeared": ["Fatal Fury", "SNK", "tekken 7"],
+    "photo": "https://vignette.wikia.nocookie.net/snk/images/7/7b/Geese-kofxiv.jpg/revision/latest/top-crop/width/200/height/150"
+  },
+  {
+    "id": 4,
+    "name": "Joe Higashi",
+    "appeared": ["Fatal Fury", "SNK"],
+    "photo": "https://vignette.wikia.nocookie.net/snk/images/3/3d/Joe-kofxiv.jpg/revision/latest/top-crop/width/200/height/150"
+  },
+  {
+    "id": 5,
+    "name": "Kasumi Todo",
+    "appeared": ["KOF", "Art of fighting"],
+    "photo": "https://vignette.wikia.nocookie.net/snk/images/a/a7/Kasumi_todoh_xi.jpg/revision/latest/top-crop/width/200/height/150?cb=20160829031045"
+  },
+  {
+    "id": 6,
+    "name": "Mai Shiranui",
+    "appeared": ["Fatal Fury", "KOF", "Samurai Showdown"],
+    "photo": "https://vignette.wikia.nocookie.net/snk/images/3/3c/Heroine-mai.png/revision/latest/top-crop/width/200/height/150?cb=20160829031045"
+  },
+  {
+    "id": 7,
+    "name": "King",
+    "appeared": ["Fatal Fury", "SNK", "Art of fighting"],
+    "photo": "https://vignette.wikia.nocookie.net/snk/images/3/37/King-kofxiv.jpg/revision/latest/top-crop/width/200/height/150"
+  },
+  {
+    "id": 8,
+    "name": "Billy Kane",
+    "appeared": ["Fatal Fury", "SNK"],
+    "photo": "https://vignette.wikia.nocookie.net/snk/images/3/30/Billy-kofxiv.jpg/revision/latest/top-crop/width/200/height/150"
+  },
+  {
+    "id": 9,
+    "name": "Ryuji Yamazaki",
+    "appeared": ["Fatal Fury", "SNK"],
+    "photo": "https://vignette.wikia.nocookie.net/snk/images/3/32/Yamazaki-kofxiv.png/revision/latest/top-crop/width/200/height/150"
+  }
+]
