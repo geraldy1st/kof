@@ -1,11 +1,10 @@
 import React from 'react';
 import { Card } from './card/card.component.jsx';
 import './card-list.styles.css';
-import charlist from '../../data/charlist.json';
 
-export const CardList = () => (
+export const CardList = props => (
   <div className="card-list">
-    {charlist.map(fighter => (
+    {props.fighters.map(fighter => (
       <Card key={fighter.id} fighter={fighter} />
     ))}
   </div>

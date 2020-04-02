@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { CardList } from './components/card-list/card-list.component';
 import { SearchBox } from './components/search-box/search-box.component';
+import charlist from './data/charlist';
 import './App.css';
 
 class App extends Component {
@@ -8,7 +9,7 @@ class App extends Component {
     super();
 
     this.state = {
-      fighters: [],
+      fighters: charlist,
       searchField: ''
     };
   }
