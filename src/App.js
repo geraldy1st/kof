@@ -10,19 +10,13 @@ class App extends Component {
 
     this.state = {
       fighters: charlist,
-      searchField: ''
+      searchField: '',
     };
   }
 
-  //   componentDidMount() {
-  //     fetch('https://jsonplaceholder.typicode.com/users')
-  //       .then(response => response.json())
-  //       .then(users => this.setState({ fighters: users }));
-  //   }
-
   render() {
     const { fighters, searchField } = this.state;
-    const filteredFighters = fighters.filter(fighter =>
+    const filteredFighters = fighters.filter((fighter) =>
       fighter.name.toLowerCase().includes(searchField.toLowerCase())
     );
 
@@ -30,9 +24,9 @@ class App extends Component {
       <div className="App">
         <SearchBox
           placeholder="search"
-          handleChange={e =>
+          handleChange={(e) =>
             this.setState({
-              searchField: e.target.value
+              searchField: e.target.value,
             })
           }
         />
