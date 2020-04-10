@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kof/static/css/main.74d4c85c.chunk.css",
+    "main.js": "/kof/static/js/main.7cb71ffd.chunk.js",
+    "main.js.map": "/kof/static/js/main.7cb71ffd.chunk.js.map",
+    "runtime-main.js": "/kof/static/js/runtime-main.55aa8bbc.js",
+    "runtime-main.js.map": "/kof/static/js/runtime-main.55aa8bbc.js.map",
+    "static/js/2.b9f18598.chunk.js": "/kof/static/js/2.b9f18598.chunk.js",
+    "static/js/2.b9f18598.chunk.js.map": "/kof/static/js/2.b9f18598.chunk.js.map",
+    "index.html": "/kof/index.html",
+    "precache-manifest.70c352ba94adc7afce24ef029f93c01e.js": "/kof/precache-manifest.70c352ba94adc7afce24ef029f93c01e.js",
+    "service-worker.js": "/kof/service-worker.js",
+    "static/css/main.74d4c85c.chunk.css.map": "/kof/static/css/main.74d4c85c.chunk.css.map",
+    "static/js/2.b9f18598.chunk.js.LICENSE.txt": "/kof/static/js/2.b9f18598.chunk.js.LICENSE.txt",
+    "static/media/kof-xiv.png": "/kof/static/media/kof-xiv.e639e0fd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55aa8bbc.js",
+    "static/js/2.b9f18598.chunk.js",
+    "static/css/main.74d4c85c.chunk.css",
+    "static/js/main.7cb71ffd.chunk.js"
+  ]
+}
