@@ -12,6 +12,10 @@
   transition: transform 0.1s ease-out;
   text-align: center;
 }
+.card-container h2 {
+  font-weight: 100;
+  color: #333;
+}
 /* .card-container:hover {
   transform: scale(1.01);
 } */
