@@ -48,7 +48,7 @@
   position: relative;
   top: 22px;
   left: 22px;
-  background: #333;
+  background: rgb(75, 75, 75);
   border-radius: 1.5px;
   z-index: 1;
   transform-origin: 4px 0px;
@@ -67,7 +67,7 @@
 #menuToggle input:checked ~ span {
   opacity: 1;
   transform: rotate(45deg) translate(-2px, -1px);
-  background: #232323;
+  background: #aaaaaa;
 }
 
 /*
