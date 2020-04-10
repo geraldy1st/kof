@@ -1,56 +1,128 @@
 [
   {
     "id": 1,
-    "name": "Terry Bogard",
-    "appeared": ["Fatal Fury", "SNK"],
-    "photo": "https://vignette.wikia.nocookie.net/snk/images/d/d1/Terry-kofxiv.jpg/revision/latest/top-crop/width/200/height/150"
+    "name": "Kyo Kuzanagi",
+    "appeared": ["SNK"],
+    "photo": "https://www.snk-corp.co.jp/us/games/kof-xiv/characters/img/charaimg_kusanagi.png"
   },
   {
     "id": 2,
-    "name": "Andy Bogard",
+    "name": "Benimaru Nikaido",
     "appeared": ["Fatal Fury", "SNK"],
-    "photo": "https://vignette.wikia.nocookie.net/snk/images/9/92/Andy-kofxiv.jpg/revision/latest/top-crop/width/200/height/150"
+    "photo": "https://www.snk-corp.co.jp/us/games/kof-xiv/characters/img/charaimg_benimaru.png"
   },
   {
     "id": 3,
-    "name": "Geese Howard",
-    "appeared": ["Fatal Fury", "SNK", "tekken 7"],
-    "photo": "https://vignette.wikia.nocookie.net/snk/images/7/7b/Geese-kofxiv.jpg/revision/latest/top-crop/width/200/height/150"
+    "name": "Goro Daimon",
+    "appeared": ["SNK"],
+    "photo": "https://www.snk-corp.co.jp/us/games/kof-xiv/characters/img/charaimg_daimon.png"
   },
   {
     "id": 4,
-    "name": "Joe Higashi",
-    "appeared": ["Fatal Fury", "SNK"],
-    "photo": "https://vignette.wikia.nocookie.net/snk/images/3/3d/Joe-kofxiv.jpg/revision/latest/top-crop/width/200/height/150"
+    "name": "Geese Howard",
+    "appeared": ["Fatal Fury", "SNK", "Tekken 7"],
+    "photo": "https://www.snk-corp.co.jp/us/games/kof-xiv/characters/img/charaimg_geese.png"
   },
   {
     "id": 5,
-    "name": "Kasumi Todo",
-    "appeared": ["KOF", "Art of fighting"],
-    "photo": "https://vignette.wikia.nocookie.net/snk/images/a/a7/Kasumi_todoh_xi.jpg/revision/latest/top-crop/width/200/height/150?cb=20160829031045"
+    "name": "Billy Kane",
+    "appeared": ["SNK"],
+    "photo": "https://www.snk-corp.co.jp/us/games/kof-xiv/characters/img/charaimg_billy.png"
   },
   {
     "id": 6,
-    "name": "Mai Shiranui",
-    "appeared": ["Fatal Fury", "KOF", "Samurai Showdown"],
-    "photo": "https://vignette.wikia.nocookie.net/snk/images/3/3c/Heroine-mai.png/revision/latest/top-crop/width/200/height/150?cb=20160829031045"
+    "name": "Hein",
+    "appeared": ["SNK"],
+    "photo": "https://www.snk-corp.co.jp/us/games/kof-xiv/characters/img/charaimg_hein.png"
   },
   {
     "id": 7,
-    "name": "King",
-    "appeared": ["Fatal Fury", "SNK", "Art of fighting"],
-    "photo": "https://vignette.wikia.nocookie.net/snk/images/3/37/King-kofxiv.jpg/revision/latest/top-crop/width/200/height/150"
+    "name": "Terry Bogard",
+    "appeared": ["SNK", "Fatal Fury"],
+    "photo": "https://www.snk-corp.co.jp/us/games/kof-xiv/characters/img/charaimg_terry.png"
   },
   {
     "id": 8,
-    "name": "Billy Kane",
+    "name": "Andy Bogard",
     "appeared": ["Fatal Fury", "SNK"],
-    "photo": "https://vignette.wikia.nocookie.net/snk/images/3/30/Billy-kofxiv.jpg/revision/latest/top-crop/width/200/height/150"
+    "photo": "https://www.snk-corp.co.jp/us/games/kof-xiv/characters/img/charaimg_andy.png"
   },
   {
     "id": 9,
-    "name": "Ryuji Yamazaki",
+    "name": "Joe Higashi",
     "appeared": ["Fatal Fury", "SNK"],
-    "photo": "https://vignette.wikia.nocookie.net/snk/images/3/32/Yamazaki-kofxiv.png/revision/latest/top-crop/width/200/height/150"
+    "photo": "https://www.snk-corp.co.jp/us/games/kof-xiv/characters/img/charaimg_joe.png"
+  },
+  {
+    "id": 10,
+    "name": "King",
+    "appeared": ["SNK"],
+    "photo": "https://www.snk-corp.co.jp/us/games/kof-xiv/characters/img/charaimg_king.png"
+  },
+  {
+    "id": 11,
+    "name": "Mai Shiranui",
+    "appeared": ["Fatal Fury", "SNK", "Samurai Showdown", "DOA"],
+    "photo": "https://www.snk-corp.co.jp/us/games/kof-xiv/characters/img/charaimg_mai.png"
+  },
+  {
+    "id": 12,
+    "name": "Alice",
+    "appeared": ["SNK"],
+    "photo": "https://www.snk-corp.co.jp/us/games/kof-xiv/characters/img/charaimg_alice.png"
+  },
+  {
+    "id": 13,
+    "name": "Kim",
+    "appeared": ["SNK"],
+    "photo": "https://www.snk-corp.co.jp/us/games/kof-xiv/characters/img/charaimg_kim.png"
+  },
+  {
+    "id": 14,
+    "name": "Gang-IL",
+    "appeared": ["Fatal Fury", "SNK", "Samurai Showdown", "DOA"],
+    "photo": "https://www.snk-corp.co.jp/us/games/kof-xiv/characters/img/charaimg_gang-il.png"
+  },
+  {
+    "id": 15,
+    "name": "Luong",
+    "appeared": ["SNK"],
+    "photo": "https://www.snk-corp.co.jp/us/games/kof-xiv/characters/img/charaimg_luong.png"
+  },
+  {
+    "id": 16,
+    "name": "Ioro Yagami",
+    "appeared": ["SNK"],
+    "photo": "https://www.snk-corp.co.jp/us/games/kof-xiv/characters/img/charaimg_iori.png"
+  },
+  {
+    "id": 17,
+    "name": "Mature",
+    "appeared": ["SNK"],
+    "photo": "https://www.snk-corp.co.jp/us/games/kof-xiv/characters/img/charaimg_mature.png"
+  },
+  {
+    "id": 18,
+    "name": "Vice",
+    "appeared": ["SNK"],
+    "photo": "https://www.snk-corp.co.jp/us/games/kof-xiv/characters/img/charaimg_vice.png"
+  },
+  {
+    "id": 19,
+    "name": "Nelson",
+    "appeared": ["SNK"],
+    "photo": "https://www.snk-corp.co.jp/us/games/kof-xiv/characters/img/charaimg_nelson.png"
+  },
+  {
+    "id": 20,
+    "name": "Zarina",
+    "appeared": ["SNK"],
+    "photo": "https://www.snk-corp.co.jp/us/games/kof-xiv/characters/img/charaimg_zarina.png"
+  },
+  {
+    "id": 21,
+    "name": "Bandeiras Hattori",
+    "appeared": ["SNK"],
+    "photo": "https://www.snk-corp.co.jp/us/games/kof-xiv/characters/img/charaimg_bandeiras.png"
   }
 ]

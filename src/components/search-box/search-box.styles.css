@@ -1,12 +1,14 @@
+.main-search {
+  display: flex;
+}
 .search {
+  width: 95%;
+  margin: 90px auto 15px auto;
+  padding: 10px;
+  font-size: 2em;
+  line-height: 30px;
+  text-align: center;
   -webkit-appearance: none;
   border: none;
   outline: none;
-  padding: 10px;
-  width: 50%;
-  font-size: 2em;
-  line-height: 30px;
-  margin: 15px auto;
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
-    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }

@@ -3,7 +3,6 @@ import { CardList } from './components/card-list/card-list.component';
 import { SearchBox } from './components/search-box/search-box.component';
 import Navbar from './components/navbar/navbar.component';
 import charlist from './data/charlist';
-import './App.css';
 
 class App extends Component {
   constructor() {

@@ -17,13 +17,16 @@ const Navbar = () => {
             </div>
           </li>
           <li>
-            <i class="fas fa-angle-right"></i> Video
+            <i className="fas fa-angle-right"></i> Video
           </li>
           <li>
-            <i class="fas fa-angle-right"></i> KOF's Art
+            <i className="fas fa-angle-right"></i> Characters
           </li>
           <li>
-            <i class="fas fa-angle-right"></i> About
+            <i className="fas fa-angle-right"></i> KOF's Art
+          </li>
+          <li>
+            <i className="fas fa-angle-right"></i> About
           </li>
         </ul>
       </div>
