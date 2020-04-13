@@ -5,8 +5,8 @@ import Navbar from './components/navbar/navbar.component';
 import charlist from './data/charlist';
 
 class App extends Component {
-  constructor() {
-    super();
+  constructor(props) {
+    super(props);
 
     this.state = {
       fighters: charlist,

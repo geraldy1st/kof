@@ -124,5 +124,149 @@
     "name": "Bandeiras Hattori",
     "appeared": ["SNK"],
     "photo": "https://www.snk-corp.co.jp/us/games/kof-xiv/characters/img/charaimg_bandeiras.png"
+  },
+  {
+    "id": 22,
+    "name": "Athena Asamiya",
+    "appeared": ["SNK"],
+    "photo": "https://www.snk-corp.co.jp/us/games/kof-xiv/characters/img/charaimg_athena.png"
+  },
+  {
+    "id": 23,
+    "name": "Sie Kensou",
+    "appeared": ["SNK"],
+    "photo": "https://www.snk-corp.co.jp/us/games/kof-xiv/characters/img/charaimg_kensou.png"
+  },
+  {
+    "id": 24,
+    "name": "Chin Gentsai",
+    "appeared": ["SNK"],
+    "photo": "https://www.snk-corp.co.jp/us/games/kof-xiv/characters/img/charaimg_chin.png"
+  },
+  {
+    "id": 25,
+    "name": "K'",
+    "appeared": ["SNK"],
+    "photo": "https://www.snk-corp.co.jp/us/games/kof-xiv/characters/img/charaimg_k.png"
+  },
+  {
+    "id": 26,
+    "name": "Kula Diamond",
+    "appeared": ["SNK"],
+    "photo": "https://www.snk-corp.co.jp/us/games/kof-xiv/characters/img/charaimg_kula.png"
+  },
+  {
+    "id": 27,
+    "name": "Maxima",
+    "appeared": ["SNK"],
+    "photo": "https://www.snk-corp.co.jp/us/games/kof-xiv/characters/img/charaimg_maxima.png"
+  },
+  {
+    "id": 28,
+    "name": "Nakoruru",
+    "appeared": ["SNK"],
+    "photo": "https://www.snk-corp.co.jp/us/games/kof-xiv/characters/img/charaimg_nakoruru.png"
+  },
+  {
+    "id": 29,
+    "name": "Muimui",
+    "appeared": ["SNK"],
+    "photo": "https://www.snk-corp.co.jp/us/games/kof-xiv/characters/img/charaimg_muimui.png"
+  },
+  {
+    "id": 30,
+    "name": "Love Heart",
+    "appeared": ["SNK"],
+    "photo": "https://www.snk-corp.co.jp/us/games/kof-xiv/characters/img/charaimg_love.png"
+  },
+  {
+    "id": 31,
+    "name": "Ralf Jones",
+    "appeared": ["SNK"],
+    "photo": "https://www.snk-corp.co.jp/us/games/kof-xiv/characters/img/charaimg_ralf.png"
+  },
+  {
+    "id": 32,
+    "name": "Clark Still",
+    "appeared": ["SNK"],
+    "photo": "https://www.snk-corp.co.jp/us/games/kof-xiv/characters/img/charaimg_clark.png"
+  },
+  {
+    "id": 33,
+    "name": "Leona Heidern",
+    "appeared": ["SNK"],
+    "photo": "https://www.snk-corp.co.jp/us/games/kof-xiv/characters/img/charaimg_leona.png"
+  },
+  {
+    "id": 34,
+    "name": "Shun'ei",
+    "appeared": ["SNK"],
+    "photo": "https://www.snk-corp.co.jp/us/games/kof-xiv/characters/img/charaimg_shunei.png"
+  },
+  {
+    "id": 35,
+    "name": "Tung Fu Rue",
+    "appeared": ["SNK"],
+    "photo": "https://www.snk-corp.co.jp/us/games/kof-xiv/characters/img/charaimg_tung.png"
+  },
+  {
+    "id": 36,
+    "name": "Meitenkun",
+    "appeared": ["SNK"],
+    "photo": "https://www.snk-corp.co.jp/us/games/kof-xiv/characters/img/charaimg_meitenkun.png"
+  },
+  {
+    "id": 37,
+    "name": "Ryo Sakazaki",
+    "appeared": ["SNK"],
+    "photo": "https://www.snk-corp.co.jp/us/games/kof-xiv/characters/img/charaimg_ryo.png"
+  },
+  {
+    "id": 38,
+    "name": "robert Garcia",
+    "appeared": ["SNK"],
+    "photo": "https://www.snk-corp.co.jp/us/games/kof-xiv/characters/img/charaimg_robert.png"
+  },
+  {
+    "id": 39,
+    "name": "Yuri Sakazaki",
+    "appeared": ["SNK"],
+    "photo": "https://www.snk-corp.co.jp/us/games/kof-xiv/characters/img/charaimg_yuri.png"
+  },
+  {
+    "id": 40,
+    "name": "Ramon",
+    "appeared": ["SNK"],
+    "photo": "https://www.snk-corp.co.jp/us/games/kof-xiv/characters/img/charaimg_ramon.png"
+  },
+  {
+    "id": 41,
+    "name": "Angel",
+    "appeared": ["SNK"],
+    "photo": "https://www.snk-corp.co.jp/us/games/kof-xiv/characters/img/charaimg_angel.png"
+  },
+  {
+    "id": 42,
+    "name": "King of dinosaurs",
+    "appeared": ["SNK"],
+    "photo": "https://www.snk-corp.co.jp/us/games/kof-xiv/characters/img/charaimg_kod.png"
+  },
+  {
+    "id": 43,
+    "name": "Sylvie Paula",
+    "appeared": ["SNK"],
+    "photo": "https://www.snk-corp.co.jp/us/games/kof-xiv/characters/img/charaimg_sylvie.png"
+  },
+  {
+    "id": 44,
+    "name": "Kukri",
+    "appeared": ["SNK"],
+    "photo": "https://www.snk-corp.co.jp/us/games/kof-xiv/characters/img/charaimg_kukri.png"
+  },
+  {
+    "id": 45,
+    "name": "Mian",
+    "appeared": ["SNK"],
+    "photo": "https://www.snk-corp.co.jp/us/games/kof-xiv/characters/img/charaimg_mian.png"
   }
 ]
