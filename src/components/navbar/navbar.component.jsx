@@ -15,18 +15,18 @@ const Navbar = () => {
         <ul id="menu">
           <li>
             <div className="logo">
-              <Link to="/">
+              <Link to="/kof">
                 <img src={logo} alt="" />
               </Link>
             </div>
           </li>
           <li>
-            <Link to="/">
+            <Link to="/kof">
               <i className="fas fa-angle-right"></i> Home
             </Link>
           </li>
           <li>
-            <Link to="/characters">
+            <Link to="/kof/characters">
               <i className="fas fa-angle-right"></i> Characters
             </Link>
           </li>

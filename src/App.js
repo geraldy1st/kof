@@ -9,8 +9,8 @@ const App = () => {
     <div className="App">
       <Navbar />
 
-      <Route exact path="/" component={HomePage} />
-      <Route path="/characters" component={CardList} />
+      <Route exact path="/kof" component={HomePage} />
+      <Route path="/kof/characters" component={CardList} />
     </div>
   );
 };
