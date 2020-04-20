@@ -1,39 +1,18 @@
-import React, { Component } from 'react';
-import { CardList } from './components/card-list/card-list.component';
-import { SearchBox } from './components/search-box/search-box.component';
+import React from 'react';
+import { Route } from 'react-router-dom';
 import Navbar from './components/navbar/navbar.component';
-import charlist from './data/charlist';
+import HomePage from './components/homepage/homepage.component';
+import CardList from './components/card-list/card-list.component';
 
-class App extends Component {
-  constructor(props) {
-    super(props);
+const App = () => {
+  return (
+    <div className="App">
+      <Navbar />
 
-    this.state = {
-      fighters: charlist,
-      searchField: '',
-    };
-
-    // this.handleChange = this.handleChange.bind(this);
-  }
-
-  handleChange = (e) => {
-    this.setState({ searchField: e.target.value });
-  };
-
-  render() {
-    const { fighters, searchField } = this.state;
-    const filteredFighters = fighters.filter((fighter) =>
-      fighter.name.toLowerCase().includes(searchField.toLowerCase())
-    );
-
-    return (
-      <div className="App">
-        <Navbar />
-        <SearchBox placeholder="search" handleChange={this.handleChange} />
-        <CardList fighters={filteredFighters} />
-      </div>
-    );
-  }
-}
+      <Route exact path="/" component={HomePage} />
+      <Route path="/characters" component={CardList} />
+    </div>
+  );
+};
 
 export default App;

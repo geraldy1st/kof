@@ -1,9 +1,9 @@
 .main-search {
-  display: flex;
+  text-align: center;
 }
 .search {
   width: 95%;
-  margin: 90px auto 15px auto;
+  margin: 15px auto;
   padding: 10px;
   font-size: 2em;
   line-height: 30px;

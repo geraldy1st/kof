@@ -1,5 +1,7 @@
 import React from 'react';
 import './navbar.styles.css';
+import { Link } from 'react-router-dom';
+
 import logo from '../../images/kof-xiv.png';
 
 const Navbar = () => {
@@ -13,20 +15,35 @@ const Navbar = () => {
         <ul id="menu">
           <li>
             <div className="logo">
-              <img src={logo} alt="" />
+              <Link to="/">
+                <img src={logo} alt="" />
+              </Link>
             </div>
           </li>
           <li>
-            <i className="fas fa-angle-right"></i> Video
+            <Link to="/">
+              <i className="fas fa-angle-right"></i> Home
+            </Link>
           </li>
           <li>
-            <i className="fas fa-angle-right"></i> Characters
+            <Link to="/characters">
+              <i className="fas fa-angle-right"></i> Characters
+            </Link>
           </li>
           <li>
-            <i className="fas fa-angle-right"></i> KOF's Art
+            <Link to="/videos">
+              <i className="fas fa-angle-right"></i> Videos
+            </Link>
           </li>
           <li>
-            <i className="fas fa-angle-right"></i> About
+            <Link to="gallery">
+              <i className="fas fa-angle-right"></i> Gallery
+            </Link>
+          </li>
+          <li>
+            <Link to="About">
+              <i className="fas fa-angle-right"></i> About
+            </Link>
           </li>
         </ul>
       </div>
