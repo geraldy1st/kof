@@ -1,11 +1,27 @@
-import React from 'react';
+import React, { Component } from 'react';
+import NewsFeed from '../../../data/newsfeed.json';
+import './homeNews.styles.css';
 
-const HomeNews = () => {
-  return (
-    <div className="home-news">
-      <h1>News</h1>
-    </div>
-  );
-};
+class HomeNews extends Component {
+  render() {
+    return (
+      <div>
+        {NewsFeed.map((newsDetails) => {
+          return (
+            <div key={newsDetails.id} className="home-news">
+              <div className="news1">
+                <img src={newsDetails.img} alt="" />
+              </div>
+              <div className="news2">
+                <h3 className="news-title">{newsDetails.title}</h3>
+                <p className="news-text">{newsDetails.para}</p>
+              </div>
+            </div>
+          );
+        })}
+      </div>
+    );
+  }
+}
 
 export default HomeNews;

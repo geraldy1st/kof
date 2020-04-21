@@ -47,6 +47,14 @@ const Navbar = () => {
           </li>
         </ul>
       </div>
+      <a href="/kof">
+        <div className="nav-logo">
+          <img
+            src="https://www.litlgeeks.com/wp-content/uploads/2019/10/KOFA-Logo.png"
+            alt=""
+          />
+        </div>
+      </a>
     </div>
   );
 };

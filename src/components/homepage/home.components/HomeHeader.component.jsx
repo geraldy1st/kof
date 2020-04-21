@@ -5,7 +5,7 @@ const HomeHeader = () => {
   return (
     <div className="home-header">
       <h1>Gameplay Guide</h1>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+      <p>The best way to learn and get better at fighting games</p>
       <div>
         <div
           id="carouselExampleIndicators"
