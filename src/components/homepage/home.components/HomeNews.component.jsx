@@ -13,7 +13,7 @@ class HomeNews extends Component {
                 <img src={newsDetails.img} alt="" />
               </div>
               <div className="news2">
-                <h3 className="news-title">{newsDetails.title}</h3>
+                <h4 className="news-title">{newsDetails.title}</h4>
                 <p className="news-text">{newsDetails.para}</p>
               </div>
             </div>
