@@ -26,9 +26,9 @@ const Navbar = () => {
             </Link>
           </li>
           <li>
-            <Link to="/kof/characters">
+            <a href="/kof/characters">
               <i className="fas fa-angle-right"></i> Characters
-            </Link>
+            </a>
           </li>
           <li>
             <Link to="/videos">
